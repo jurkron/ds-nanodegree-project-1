@@ -57,4 +57,4 @@ The project clearly evaluates which features have the most impact on the price f
 
 ## Acknowledgements
 
-The data set used in this notebook can be found on [Kaggle](https://www.kaggle.com/airbnb/seattle/data). Thanks to AirBnb for providing this data.
+The dataset used in this notebook can be found on [Kaggle](https://www.kaggle.com/airbnb/seattle/data). Thanks to AirBnb for providing this data.
